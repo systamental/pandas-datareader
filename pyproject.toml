@@ -3,7 +3,7 @@ requires = ["setuptools>=64", "setuptools_scm>=8,<9", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "pandas-datareader"
+name = "cryptodatapy-pandas-datareader"
 dynamic = ["version", "dependencies", "readme"]
 requires-python = ">=3.9"
 license = {file = "LICENSE.md"}
